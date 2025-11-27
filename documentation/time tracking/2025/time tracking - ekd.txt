@@ -1,0 +1,13 @@
+Eckhard's working hours 2025
+
+date        hours  total    location     subject
+
+
+-November-
+2025-11-19    3      3      Türkenfeld   KI chat on a QuadBandSDR design
+2025-11-20    6      9      Türkenfeld   reviewing KI chat and generating a PDF, applying for a trade mark
+2025-11-21    2     11      Türkenfeld   discussing/adjusting trade mark application
+2025-11-24    1     12      Türkenfeld   discussing/adjusting trade mark application
+2025-11-25    1     13      Türkenfeld   discussing/adjusting trade mark application
+2025-11-26    2     15      Türkenfeld   finalizing trade mark application, sending to EUIPO
+2025-11-27    5     20      Türkenfeld   reviewing/extending design PDF with trademark, setup website
