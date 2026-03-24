@@ -12,3 +12,5 @@ date        hours  total    location     subject
 2025-11-26    2     15      Türkenfeld   finalizing trade mark application, sending to EUIPO
 2025-11-27    5     20      Türkenfeld   reviewing/extending design PDF with trademark, setup website
 2025-11-28    2     22      Türkenfeld   reviewing project setup and website, reference to FTLight protocol
+2025-11-29    1     23      Türkenfeld   added Aktuelles/Verlauf to website/PDF
+
